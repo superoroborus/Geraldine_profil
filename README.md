@@ -21,7 +21,7 @@ Mon profil d'autodidacte en python et assimilé
 ### cours sur GIT openclassrooms:
  * https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 
-### cours de la formations openclasrooms data-science :
+### cours de la formation openclasrooms data-science :
  * https://github.com/loedata/FORMATION-DATA_SCIENTIST-OPENCLASSROOM/tree/main
 
 ### Très bon bootcamp
