@@ -14,6 +14,7 @@ Mon profil d'autodidacte en python et assimilé
  * https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python
  * https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees
  * https://openclassrooms.com/fr/courses/7771531-decouvrez-les-librairies-python-pour-la-data-science
+ * https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
 
 ### Exercices : Projet Euler
  * https://www.lucaswillems.com/fr/articles/19/project-euler-traduction-des-problemes-1-a-50
