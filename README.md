@@ -37,6 +37,6 @@ Mon profil d'autodidacte en python et assimilé
 * https://www.hackerrank.com/dashboard
 * https://www.codingame.com/start/fr/
 
-### Git permattant d'obtenir des certificats Gratuits sur plain de sujets différents :
+### Git permattant d'obtenir des certificats Gratuits sur plein de sujets différents :
 * https://github.com/superoroborus/Free_Certifications
  
