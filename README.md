@@ -26,18 +26,18 @@ Mon profil d'autodidacte en python et assimilé
  * https://github.com/loedata/FORMATION-DATA_SCIENTIST-OPENCLASSROOM/tree/main
 
 ### Très bon bootcamp
- * https://github.com/superoroborus/data-analyst_bootcamp
+ * https://github.com/kevindegila/data-analyst
 ### en particulier les exercicies :
-   https://github.com/superoroborus/data-analyst_bootcamp/blob/main/01_07_Exercices_sur_les_bases_de_python.ipynb
+ * https://github.com/superoroborus/Geraldine_profil/blob/main/01_07_Exercices_sur_les_bases_de_python%20-%20reponse_geraldine.ipynb
 
  ## Ressources en Anglais pour apprendre à coder en Python :
 
 ### Principalement de l'apprentissage par le jeu :
-* Learn to Code — For Free — Coding Courses for Busy People [(freecodecamp.org) ](https://www.freecodecamp.org/)https://www.freecodecamp.org/
+* Learn to Code — For Free — Coding Courses for Busy People : https://www.freecodecamp.org/
 * https://www.codewars.com/kata
 * https://www.hackerrank.com/dashboard
 * https://www.codingame.com/start/fr/
 
 ### Git permattant d'obtenir des certificats Gratuits sur plein de sujets différents :
-* https://github.com/superoroborus/Free_Certifications
+* https://github.com/cloudcommunity/Free-Certifications
  
