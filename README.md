@@ -40,4 +40,73 @@ Mon profil d'autodidacte en python et assimilé
 
 ### Git permattant d'obtenir des certificats Gratuits sur plein de sujets différents :
 * https://github.com/cloudcommunity/Free-Certifications
- 
+
+ -------------------------------------------------
+
+ ## Exemple de petit projet pour extraire certains mails outlook :
+
+### Instructions : 
+
+
+https://nanonets.com/blog/export-outlook-emails-to-excel/
+Directly exporting emails from Outlook to Excel is pretty easy, but this method will only retain plain text and basic links – all other formatting will be lost.
+
+1. Open Outlook >> click on "File" >> and select "Open and Export"
+2. Click on "Import/Export" >> select "Export to a file" >> and select Excel or csv as the file type
+3. Select a destination folder to save the file in
+4. Click "Finish"
+
+Exit Outlook, open the folder and verify the Excel/csv file you just exported from Outlook.
+vérifier que l'export se situe bien : C:/Users/callettige/Desktop/Projet-python/export-outlook/export_pv_diffuses.CSV"
+
+Executer "search export pv diffuses" :
+Appuyer sur le bouton : exécuter
+Le fichier excel "fichier_search" doit apparaître.
+
+Faire un filtre sur la première colonne avec le mot "final".
+Le filtre permet d'enlever le décompte un peu génant.
+
+Pour modifier le mot clés pour la recherche :
+Faire un clic droit sur C:\Users\callettige\Desktop\Projet-python\export-outlook\search_export_pv_diffuses\search export pv diffuses
+Vérifier que le code a bien les 2 ligne avec 'diffusion et passage T2', modifier si besoin.
+
+
+
+------------------------------------------------------------------
+ ## code source :
+
+```# Importer le module tkinter pour créer une interface graphique
+import tkinter as tk
+
+# Créer une fonction qui exécute le code donné
+def run_code():
+    # Ouvrir le fichier CSV en mode lecture
+    with open("ENTRER/LIEN/", 'r') as text_file:
+        # Ouvrir le fichier de sortie en mode écriture
+        sourceFile = open('fichier_search.csv', 'w')
+        # Lire toutes les lignes du fichier CSV
+        lines = text_file.readlines()
+        # Initialiser un compteur
+        count = 0
+        # Parcourir chaque ligne du fichier CSV
+        for line in lines:
+            # Vérifier si la ligne contient la chaîne "diffusion et passage T2"
+            if "diffusion et passage T2" in line:
+                # Incrémenter le compteur
+                count += 1
+                # Afficher la ligne et le compteur dans le fichier de sortie
+                print(line, f"diffusion et passage T2' {count} times.", file=sourceFile)
+    # Fermer les fichiers
+    text_file.close()
+    sourceFile.close()
+
+# Créer une fenêtre principale
+window = tk.Tk()
+# Donner un titre à la fenêtre
+window.title("Interface python")
+# Créer un bouton qui appelle la fonction run_code quand on clique dessus
+button = tk.Button(window, text="Exécuter le code", command=run_code)
+# Placer le bouton dans la fenêtre
+button.pack()
+# Lancer la boucle principale de la fenêtre
+window.mainloop()
