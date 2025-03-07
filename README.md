@@ -1,5 +1,5 @@
 # Geraldine_profil
-Mon profil d'autodidacte en python et assimilé
+Mon profil d'autodidacte en python :
 - 👋 Hi, I’m Géraldine
 - 👀 I'm a technician
 - 📫 How to reach me: https://www.linkedin.com/in/geraldinecalletti/
