@@ -6,6 +6,12 @@ Mon profil d'autodidacte en python et assimilé
 
   -------------------------------------------------
 
+  ## Projet en cours
+  Ce projet est actuellement en cours de développement. Vous pouvez le suivre sur le dépôt GitHub :  
+  [https://github.com/superoroborus/blog_personnel](https://github.com/superoroborus/blog_personnel)
+
+---
+
   ## Ressources en Français pour apprendre à coder en Python :
 
 ### cours de bases python openclassrooms:
